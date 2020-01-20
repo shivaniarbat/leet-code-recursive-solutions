@@ -1,2 +1,2 @@
-# recursive-solutions
-This repository contains recursive solutions of the named algorithms 
+# Recursive Solutions 
+This repository contains recursive solutions of the algorithms. Each folder in this reporsitory contains recursive approach for the named algorithm. 
